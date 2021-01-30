@@ -1,0 +1,1 @@
+A repository containing my study notes made from ['NPTEL SUPPLY CHAIN ANALYTICS COURSE'](https://onlinecourses.nptel.ac.in/noc21_mg12/course) plus sample projects to taste the subject.
